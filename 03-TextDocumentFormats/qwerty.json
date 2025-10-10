@@ -1,0 +1,14 @@
+[
+    {
+        "brand": "Dell",
+        "model": "Inspirion 15",
+        "year": 2023,
+        "isTouchScreen": false,
+        "devices": ["touchpad","webcam"]    
+    },
+
+    {
+        "student":"Kowalski",
+        "age":24
+    }
+]
